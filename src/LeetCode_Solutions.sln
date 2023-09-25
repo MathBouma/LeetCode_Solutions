@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00001_TwoSum", "00001_TwoSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00002_AddTwoNumbers", "00002_AddTwoNumbers\00002_AddTwoNumbers.csproj", "{ECAFE18A-F54B-4780-862B-5316DB20291D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00003_LongestSubstringWithoutRepeatingCharacters", "00003_LongestSubstringWithoutRepeatingCharacters\00003_LongestSubstringWithoutRepeatingCharacters.csproj", "{0851260C-10EF-4294-AFF5-31962C36199D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{ECAFE18A-F54B-4780-862B-5316DB20291D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECAFE18A-F54B-4780-862B-5316DB20291D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECAFE18A-F54B-4780-862B-5316DB20291D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0851260C-10EF-4294-AFF5-31962C36199D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0851260C-10EF-4294-AFF5-31962C36199D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0851260C-10EF-4294-AFF5-31962C36199D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0851260C-10EF-4294-AFF5-31962C36199D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
