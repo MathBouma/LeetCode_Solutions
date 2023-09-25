@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1997_FirstDayWhereYouHaveBeenInAllTheRoooms", "1997_FirstDayWhereYouHaveBeenInAllTheRoooms\1997_FirstDayWhereYouHaveBeenInAllTheRoooms.csproj", "{9663A0CA-A00A-4AD9-9A74-B5DE71C91231}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01997_FirstDayWhereYouHaveBeenInAllTheRoooms", "01997_FirstDayWhereYouHaveBeenInAllTheRoooms\01997_FirstDayWhereYouHaveBeenInAllTheRoooms.csproj", "{9663A0CA-A00A-4AD9-9A74-B5DE71C91231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{3BD38B44-7384-4B6D-957B-4B75AA3679E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00001_TwoSum", "00001_TwoSum\00001_TwoSum.csproj", "{3BD38B44-7384-4B6D-957B-4B75AA3679E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00002_AddTwoNumbers", "00002_AddTwoNumbers\00002_AddTwoNumbers.csproj", "{ECAFE18A-F54B-4780-862B-5316DB20291D}"
 EndProject
